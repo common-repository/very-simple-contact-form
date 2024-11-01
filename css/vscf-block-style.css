@@ -1,0 +1,11 @@
+/* For reference only - plugin loads the minified CSS file */
+
+/* VS Contact Form block stylesheet */
+
+/* Form container */
+#vscf fieldset {background:none; padding:0; margin:0; border:0;}
+
+/* Form elements */
+#vscf fieldset .form-group input[type="text"], #vscf fieldset .form-group input[type="email"], #vscf fieldset .form-group textarea {padding:5px 10px; background:#f8f8f8; border:1px solid #ddd; border-radius:0; line-height:1;}
+#vscf fieldset .form-group button {padding:5px 10px; background:#f8f8f8; border:1px solid #ddd; border-radius:0; line-height:1;}
+#vscf fieldset .vscf-privacy-group input[type="checkbox"] {background:#f8f8f8; border:1px solid #ddd; border-radius:0;}
